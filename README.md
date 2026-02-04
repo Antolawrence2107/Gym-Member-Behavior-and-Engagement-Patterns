@@ -82,7 +82,7 @@ Python – Data cleaning, analysis, and visualization
 
 Power BI – Interactive dashboard and business insights
 
-Excel / CSV – Dataset handling
+CSV – Dataset handling
 
 **Key Insights**
 
